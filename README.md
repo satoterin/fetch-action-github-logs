@@ -5,11 +5,11 @@ GitHub API.
 
 ## Install
 
-Fetch-Actions-Logs is a Go program and comes as a single binary file.
+Fetch-Action-Github-Logs is a Go program and comes as a single binary file.
 
 Download the relevant binary from
 
-- https://github.com/ncw/fetch-actions-logs/releases
+- https://github.com/satoterin/fetch-action-github-logs/releases
 
 Or alternatively if you have Go installed use
 
@@ -66,20 +66,5 @@ Full options:
     	Fetch logs for the user specified
 ```
 
-## License
 
-This is free software under the terms of the MIT license (check the
-LICENSE file included in this package).
 
-## Contact and support
-
-The project website is at:
-
-- https://github.com/ncw/fetch-actions-logs
-
-There you can file bug reports, ask for help or contribute patches.
-
-## Authors
-
-- Nick Craig-Wood <nick@craig-wood.com>
-- Your name goes here!
